@@ -31,19 +31,19 @@ An end-to-end data analytics project exploring Netflix movies and TV shows using
 
 
 
-\- Analyze Netflix movies and TV shows.
+- Analyze Netflix movies and TV shows.
 
-\- Identify the highest- and lowest-rated titles.
+- Identify the highest- and lowest-rated titles.
 
-\- Explore content distribution by production country.
+- Explore content distribution by production country.
 
-\- Analyze Netflix content released across different decades.
+- Analyze Netflix content released across different decades.
 
-\- Compare IMDb and TMDB ratings.
+- Compare IMDb and TMDB ratings.
 
-\- Identify TV shows with the most seasons.
+- Identify TV shows with the most seasons.
 
-\- Explore movie age certification distributions.
+- Explore movie age certification distributions.
 
 
 
@@ -51,13 +51,13 @@ An end-to-end data analytics project exploring Netflix movies and TV shows using
 
 
 
-\- Microsoft SQL Server
+- Microsoft SQL Server
 
-\- SQL Server Management Studio (SSMS)
+- SQL Server Management Studio (SSMS)
 
-\- Tableau Public
+- Tableau Public
 
-\- CSV Datasets
+- CSV Datasets
 
 
 
@@ -65,21 +65,21 @@ An end-to-end data analytics project exploring Netflix movies and TV shows using
 
 
 
-\- Top 10 Movies and TV Shows by IMDb Rating
+- Top 10 Movies and TV Shows by IMDb Rating
 
-\- Bottom 10 Movies and TV Shows by IMDb Rating
+- Bottom 10 Movies and TV Shows by IMDb Rating
 
-\- Netflix Titles by Production Country
+- Netflix Titles by Production Country
 
-\- Titles Released by Decade
+- Titles Released by Decade
 
-\- Average IMDb vs. TMDB Ratings
+- Average IMDb vs. TMDB Ratings
 
-\- TV Shows with the Most Seasons
+- TV Shows with the Most Seasons
 
-\- Movie Certification Distribution
+- Movie Certification Distribution
 
-\- Four KPI Cards
+- Four KPI Cards
 
 
 
