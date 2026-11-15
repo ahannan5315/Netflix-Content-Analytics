@@ -20,14 +20,11 @@ An end-to-end data analytics project exploring Netflix movies and TV shows using
 
 \### Dashboard Overview
 
-!\[Netflix Dashboard Overview](Screenshots/dashboard-overview.png)
-
-
+![Netflix Dashboard Overview](https://raw.githubusercontent.com/ahannan5315/Netflix-Content-Analytics/main/Screenshots/dashboard-overview.png)
 
 \### Dashboard Details
 
-!\[Netflix Dashboard Details](Screenshots/dashboard-details.png)
-
+![Netflix Dashboard Details](https://raw.githubusercontent.com/ahannan5315/Netflix-Content-Analytics/main/Screenshots/dashboard-details.png)
 
 
 \## 🎯 Project Objectives
