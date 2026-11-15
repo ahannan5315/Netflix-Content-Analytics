@@ -1,0 +1,452 @@
+﻿country,title_count
+US,1959
+IN,599
+JP,264
+KR,222
+GB,218
+ES,161
+FR,125
+CA,107
+MX,98
+BR,90
+TR,83
+PH,80
+DE,68
+NG,64
+AU,62
+ID,61
+CN,59
+TW,59
+IT,56
+"GB, US",48
+AR,46
+CO,44
+EG,39
+"CA, US",39
+PL,39
+ZA,33
+TH,32
+"US, GB",27
+XX,23
+HK,22
+SG,18
+NL,17
+LB,17
+MY,16
+SE,16
+"US, CA",14
+NO,13
+DK,13
+CL,12
+RU,12
+SA,11
+AE,11
+IL,11
+"DE, US",10
+"BE, FR",10
+BE,9
+"MX, US",9
+NZ,8
+PS,7
+KW,7
+"AU, US",7
+"CN, HK",6
+"FR, US",6
+PE,6
+"US, CN",5
+"FR, BE",5
+"ES, FR",5
+"AR, ES",5
+AT,5
+"CA, GB, US",5
+"CN, US",4
+"CA, GB",4
+"FR, EG",4
+FI,4
+"HK, CN",4
+IE,4
+"IN, US",4
+"JP, US",4
+IS,4
+"US, ES",4
+RO,4
+"US, AU",4
+TZ,3
+"NG, US",3
+PK,3
+VN,3
+"US, JP",3
+"US, MX",3
+KE,3
+IO,3
+"IE, GB",3
+"ES, MX",3
+"DK, US",3
+"ES, AR",3
+"CA, FR",3
+CZ,3
+"BG, US",3
+"AU, GB",2
+BD,2
+"AT, DE",2
+"AE, LB",2
+"BE, FR, IT",2
+"DE, ES",2
+"CA, ZA",2
+CM,2
+CH,2
+"FR, DE",2
+"GB, IT",2
+"GB, DE",2
+"GB, IN",2
+"GB, FR",2
+"GB, ZA",2
+"GB, US, BG",2
+"GB, US, FR",2
+GH,2
+"IN, GB",2
+"KR, US",2
+JO,2
+"IT, US",2
+"NL, BE",2
+"NL, GB",2
+"LB, FR",2
+"US, NG",2
+"US, NL",2
+"US, IL",2
+"US, IN",2
+"US, IT",2
+UY,2
+"US, FR",2
+"US, CA, GB",2
+"US, FR, JP",2
+"US, GB, ES",2
+"US, CA, CN",2
+"US, BG",2
+"US, BR",2
+PT,2
+UA,2
+"TW, CN",2
+"TW, MY",1
+"TW, US",1
+"TH, US",1
+TN,1
+"TR, US",1
+"UA, GB, US",1
+"TZ, GB",1
+"US, AU, GB",1
+"US, BE, ES",1
+"US, BE, GB",1
+"SA, SY, AE",1
+"RU, US",1
+"RU, US, FR",1
+"SE, GB",1
+"SE, NO",1
+"SE, RO",1
+"SE, US",1
+"SG, GB, US",1
+"SG, MY",1
+"SG, US",1
+"SG, US, IN",1
+SN,1
+"SU, IN",1
+"SY, GB",1
+"PT, SE, DK, BR, FR",1
+"PT, US",1
+PY,1
+"QA, LB",1
+"QA, PS",1
+"QA, TN, FR",1
+"RO, US",1
+"RS, PL, RU",1
+"RS, UY, AR",1
+"PS, DK, LB",1
+"PS, FR, DE",1
+"PS, NL, US, AE",1
+"PS, PH",1
+"PS, US, FR, DE",1
+"PL, CH, AL, IT",1
+"PL, US",1
+PR,1
+"PR, US, GB, CN",1
+"NZ, HK",1
+"PH, FO",1
+"PH, JP",1
+"PH, SG",1
+"PH, US",1
+"PE, DE, NO",1
+"PE, GB, US, IL, IT",1
+"PE, US, BR",1
+"NO, CA",1
+"NO, DE",1
+"NO, SE, DK, NL",1
+"NP, IN",1
+"US, AE",1
+"US, AR",1
+"US, CA, FR, ES",1
+"US, CA, CL",1
+"US, CN, DE, SG, UA",1
+"US, CN, GB",1
+"US, CY",1
+"US, CZ",1
+"US, DE, GB",1
+"US, DE, ZA",1
+"US, DK",1
+"US, DK, GB",1
+"US, EG, GB",1
+"US, HU, IT",1
+"US, IE",1
+"US, IE, CA",1
+"US, FR, LU, GB",1
+"US, FR, MT",1
+"US, FR, SE, GB, DE, DK, CA",1
+"US, CA, JP",1
+"US, CH",1
+"US, CL, MX",1
+"US, FR, DE, GB",1
+"US, FR, ES",1
+"US, FR, GB",1
+"UY, MX, ES",1
+"VE, AR",1
+"ZA, AO",1
+"ZA, GB",1
+"ZA, GB, US",1
+"ZA, US",1
+"ZA, US, CA",1
+ZW,1
+"US, IS, NO",1
+"US, GB, CN, CA",1
+"US, GB, DE",1
+"US, JP, TH",1
+"US, KH",1
+"US, KR",1
+"US, LB, AE",1
+"US, MW, GB",1
+"US, PL, KR",1
+"US, PR",1
+"US, TH",1
+"US, ZA",1
+"US, ZA, DE",1
+"LB, GB, FR",1
+"LB, PS",1
+"LB, QA, SY, FR",1
+"LB, US, NL, CA",1
+Lebanon,1
+LU,1
+"LU, FR",1
+"LU, US, FR",1
+"MA, FR, QA",1
+"MA, SA, TN, EG, LB",1
+"MT, GB, US",1
+MU,1
+"LB, AE",1
+"LB, CA, FR",1
+"LB, DE",1
+"MX, AR",1
+"MX, CO",1
+"MX, FI",1
+"NL, JO, DE",1
+"NL, MX",1
+"NL, PL, UA, GB, US",1
+"NL, PS, US, LB",1
+"NL, US",1
+"MX, ZA, US",1
+NA,1
+"NG, CA",1
+"NG, NO",1
+"IT, US, FR",1
+"IS, GB",1
+"IS, SE, BE",1
+"JP, CN",1
+"JP, GB",1
+"JP, HK",1
+"JP, KR, FR",1
+"JO, TH, US, AL",1
+"JP, US, CA",1
+KG,1
+KH,1
+"IN, MX",1
+"IN, SU",1
+"IE, CA",1
+"IQ, GB",1
+"IR, US, FR",1
+"IT, AR",1
+"IT, BR",1
+"IT, CH, FR",1
+"IT, CH, VA, FR, DE",1
+"IT, ES",1
+"IT, ES, FR",1
+"IT, FR",1
+"IT, GB",1
+"IT, MC, US, CA",1
+"GH, US",1
+"GL, FR",1
+"GR, GB, US",1
+"GT, UY",1
+"GB, US, FR, DE",1
+"GB, US, JP",1
+"GB, US, DE",1
+"HK, IS, US",1
+"HK, PH",1
+"HK, US",1
+HR,1
+HU,1
+"HU, CA",1
+"HU, US, CA",1
+GE,1
+"GE, DE, FR",1
+"ID, MY, SG",1
+"IE, GB, DE, FR",1
+"IE, US, CA",1
+"IE, ZA",1
+"IL, MA, US, BG, GB",1
+"IL, NO, ZA, AE, GB, IS, IE",1
+"IL, US",1
+"IL, US, FR, DE",1
+"IN, CN, US, GB",1
+"IN, DE",1
+"IN, FR",1
+"GB, FR, DE",1
+"GB, HU, NL, CH",1
+"GB, ID, CA, CN, SG, US",1
+"GB, IE",1
+"GB, AU, CA, GR, NZ",1
+"GB, AU, US",1
+"GB, CA",1
+"GB, CZ, FR",1
+"GB, IR, JO, QA",1
+"GB, DK, GR",1
+"GB, ES",1
+"GB, JP",1
+"GB, US, AT, FR, DE, NG",1
+"FR, DE, KW, PS",1
+"FR, DE, US",1
+"FR, US, GB",1
+"FI, NO",1
+"FR, CL",1
+"ES, PE",1
+"ES, PT",1
+"ES, US",1
+"ES, FR, AR",1
+"ES, IT",1
+"ES, KN",1
+"CH, DE",1
+"CH, US",1
+"CN, CA, US",1
+"CN, DE, GB",1
+"CN, FR, CA",1
+"CN, FR, TW, US",1
+"CN, GB",1
+CD,1
+"CD, GB",1
+"CA, FR, JP, GB, US",1
+"CA, FR, LB",1
+"CL, AR",1
+"CL, AR, CA",1
+"CL, NL, FR",1
+"CL, PE",1
+"DE, FR",1
+"DE, GB, US, BS, CZ",1
+"DE, GH, GB, US, BF",1
+"DE, IN, AT",1
+"DE, IT",1
+"DE, IT, PS, FR",1
+"DE, NZ, GB",1
+"CZ, DE",1
+"CZ, GB, DK, NL, SE",1
+"CZ, GB, US",1
+"CZ, US",1
+"CN, US, AU, CA",1
+"CN, US, ES",1
+"CN, JP, US",1
+"ES, BE",1
+"ES, BE, DE",1
+"ES, CN",1
+"ES, DK",1
+"DZ, EG",1
+"EG, SA",1
+"EG, US",1
+"DK, IS",1
+"DK, LB, GB",1
+"CO, ES",1
+"CU, US",1
+"DE, AT",1
+"DE, AU",1
+"DE, CH",1
+"DE, DK, EG",1
+"DE, DK, NL, GB",1
+"FR, ES",1
+"FR, GB, US",1
+"FR, IN, QA",1
+"FR, IN, SG",1
+"FR, IT",1
+"FR, JP",1
+"FR, LB",1
+"FR, LT, GB",1
+"FR, LU, BE, KH",1
+"FR, LU, CA",1
+"FR, MA",1
+"FR, MA, DE, PS",1
+"FR, MX, CO",1
+"FR, MX, ES",1
+"FR, NL, GB, US",1
+"FR, NL, SG",1
+"FR, NO, LB, BE",1
+"FR, PS, CH, QA",1
+"FR, QA",1
+"FR, QA, TN, BE",1
+"FR, RO, GB, BE, DE",1
+"BE, FR, IT, LB",1
+"BE, FR, SN",1
+"BE, GB, DE",1
+"BE, LT, NL",1
+"BE, LU",1
+"BE, NL",1
+"BE, SE, GB",1
+"BE, US",1
+BG,1
+"AU, US, CN",1
+"AE, FR, JO, LB, QA, PS",1
+"AU, CH, GB",1
+"AU, DE, GB, US",1
+"AU, FR, DE",1
+"AE, US",1
+AF,1
+"AF, DE, PS",1
+"AR, CL",1
+"AR, CO",1
+"AR, DE, UY, ES",1
+"AT, GB, US",1
+"AT, IQ, US",1
+"AT, US",1
+"AR, ES, UY",1
+"AR, FR",1
+"AR, IT",1
+"AR, PE",1
+"AR, US",1
+"BD, IN",1
+"BE, DE",1
+"BE, DK, DE, GB, US",1
+"BE, FR, ES, CH, PS",1
+"BR, DE, QA, MX, US, CH, AR",1
+"BR, DK, FR, DE, PL, AR",1
+"BR, FR",1
+"BR, FR, ES, BE",1
+"BR, MX",1
+"BR, US",1
+"BT, CN",1
+BY,1
+"CA, HU, MX, ES, GB, US",1
+"CA, HU, US",1
+"CA, IE",1
+"CA, JP, US",1
+"CA, KR",1
+"CA, LK",1
+"CA, NG",1
+"CA, US, DE",1
+"CA, US, GB",1
+"CA, US, IN",1
+"CA, BR",1
+"CA, CN",1
+"CA, CN, US",1
+"CA, DE, GB",1
