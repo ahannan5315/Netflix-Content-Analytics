@@ -1,4 +1,4 @@
-\# 🎬 Netflix Content Analytics Dashboard
+# 🎬 Netflix Content Analytics Dashboard
 
 
 
@@ -6,28 +6,28 @@ An end-to-end data analytics project exploring Netflix movies and TV shows using
 
 
 
-\## 📊 Live Interactive Dashboard
+## 📊Live Interactive Dashboard
 
 
 
-\*\*\[View the Netflix Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/abdul.hannan6588/viz/Book3\_17946857854980/NetflixAnalyticsDashboard?publish=yes)\*\*
+[View the Netflix Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/abdul.hannan6588/viz/Book3\_17946857854980/NetflixAnalyticsDashboard?publish=yes)
 
 
 
-\## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
 
 
-\### Dashboard Overview
+### Dashboard Overview
 
 ![Netflix Dashboard Overview](https://raw.githubusercontent.com/ahannan5315/Netflix-Content-Analytics/main/Screenshots/dashboard-overview.png)
 
-\### Dashboard Details
+### Dashboard Details
 
 ![Netflix Dashboard Details](https://raw.githubusercontent.com/ahannan5315/Netflix-Content-Analytics/main/Screenshots/dashboard-details.png)
 
 
-\## 🎯 Project Objectives
+## 🎯 Project Objectives
 
 
 
@@ -47,7 +47,7 @@ An end-to-end data analytics project exploring Netflix movies and TV shows using
 
 
 
-\## 🛠️ Tools \& Technologies
+## 🛠️ Tools \& Technologies
 
 
 
@@ -61,7 +61,7 @@ An end-to-end data analytics project exploring Netflix movies and TV shows using
 
 
 
-\## 📈 Dashboard Features
+## 📈 Dashboard Features
 
 
 
@@ -83,7 +83,7 @@ An end-to-end data analytics project exploring Netflix movies and TV shows using
 
 
 
-\## 🗄️ Project Structure
+## 🗄️ Project Structure
 
 
 
@@ -113,7 +113,7 @@ Netflix-Content-Analytics/
 
 
 
-\## 🔍 SQL Analysis
+## 🔍 SQL Analysis
 
 
 
@@ -121,7 +121,7 @@ SQL queries were used to investigate ratings, genres, certifications, production
 
 
 
-\## 📁 Dataset
+## 📁 Dataset
 
 
 
@@ -129,7 +129,7 @@ The project uses Netflix titles and credits datasets. Dataset source and attribu
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 
 
